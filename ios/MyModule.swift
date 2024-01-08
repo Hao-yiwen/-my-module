@@ -20,7 +20,7 @@ public class MyModule: Module {
 
     // Defines a JavaScript synchronous function that runs the native code on the JavaScript thread.
     Function("hello") {
-      return "Hello world! 👋"
+      return "Hello world! 👋12312312"
     }
 
     // Defines a JavaScript function that always returns a Promise and whose native code
